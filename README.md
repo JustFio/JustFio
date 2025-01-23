@@ -2,7 +2,7 @@
 
 ### Empowering DevOps Wizards 🚀  
 
-Hi there! I specialise in connecting **DevOps professionals** with roles that make a difference—keeping our digital world running with 99.9% uptime. Based in **London & Milton Keynes**, I’m passionate about understanding the craft behind system reliability, cloud infrastructure, and automation.  
+ Hi there! I specialise in recruiting **DevOps professionals** for impactful roles in London and Milton Keynes—helping to support the 99.9% uptime that keeps our digital world running. I’m passionate about understanding the craft behind system reliability, cloud infrastructure, and automation.
 
 ---
 
@@ -27,7 +27,7 @@ I’m more than just a recruiter—I’m your talent partner, committed to:
 
 ## Let’s Build Something Great Together 💡  
 
-📍 Based in **London** and **Milton Keynes**, I’m here to help you take your next career step or find the right person to join your team.  
+📍 Recruiting for roles in **London** and **Milton Keynes**,  I’m here to help you take your next career step or find the right person to join your team.
 
 📧 **Justina@three9s.co.uk**  
 
