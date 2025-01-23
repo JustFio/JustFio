@@ -1,7 +1,6 @@
 # Hi there, I’m Justina 👋  
 
-## 🌟 Empowering DevOps Professionals  
-I specialise in recruiting **DevOps engineers** for impactful roles in London and Milton Keynes. My focus is on connecting talented professionals with opportunities in **cloud, automation, and system reliability**—the backbone of today’s digital world. 
+## 🌟 I specialise in recruiting **DevOps engineers** for impactful roles in London and Milton Keynes. My focus is on connecting talented professionals with opportunities in **cloud, automation, and system reliability**—the backbone of today’s digital world. 
 
 ### 🚀 What I Do  
 - 🌐 Recruitment Focus: AWS, Terraform, Kubernetes, CI/CD, and more.  
