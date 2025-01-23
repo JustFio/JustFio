@@ -20,8 +20,6 @@ Let's Build Something Great
 
 📍 London & MK
 
-💼 https://www.linkedin.com/in/justina-fio/
-
 📧 Justina@three9s.co.uk 
 
 
