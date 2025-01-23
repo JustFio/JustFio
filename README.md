@@ -27,7 +27,7 @@ I’m more than just a recruiter—I’m your talent partner, committed to:
 
 ## Let’s Build Something Great Together 💡  
 
-📍 Recruiting for roles in **London** and **Milton Keynes**,  I’m here to help you take your next career step or find the right person to join your team.
+📍 **Recruiting for opportunities in London and Milton Keynes**, I’m here to support your next career step and provide resources to help you succeed in the DevOps hiring process.
 
 📧 **Justina@three9s.co.uk**  
 
