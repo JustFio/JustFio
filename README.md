@@ -8,7 +8,5 @@ This is my space to learn more about **DevOps practices** and the technologies t
 - To gain a deeper understanding of tools like **GitHub** and their role in collaborative development.  
 - To share useful resources for those interested in DevOps careers.  
 
-### 📬 Let’s Connect  
 If you have insights, advice, or resources about DevOps, I’d love to hear from you!  
 
-📧 **Justina@three9s.co.uk**  
