@@ -1,11 +1,14 @@
 # Hi there, I’m Justina 👋  
-🌟 I specialise in recruiting **DevOps engineers** for impactful roles in London and Milton Keynes. My focus is on connecting talented professionals with opportunities in **cloud, automation, and system reliability**—the backbone of today’s digital world. 
 
-### 🚀 What I Do  
-- 🌐 Recruitment Focus: AWS, Terraform, Kubernetes, CI/CD, and more.  
-- 🤝 Building long-term relationships to match talent with meaningful projects.  
+## 🌟 Exploring DevOps and Tech  
+This is my space to learn more about **DevOps practices** and the technologies that power cloud infrastructure, automation, and system reliability. I’m here to better understand the technical side of things and how it all comes together to support modern engineering teams.  
 
-### 🎯 Let’s Build Something Great Together  
-📧 **Email me**: [Justina@three9s.co.uk](mailto:Justina@three9s.co.uk)  
-📍 Recruiting for companies in **London** and **Milton Keynes**  
+### 🌱 Why I’m Here  
+- To explore the **principles of DevOps** and what makes it essential for system uptime and scalability.  
+- To gain a deeper understanding of tools like **GitHub** and their role in collaborative development.  
+- To share useful resources for those interested in DevOps careers.  
 
+### 📬 Let’s Connect  
+If you have insights, advice, or resources about DevOps, I’d love to hear from you!  
+
+📧 **Justina@three9s.co.uk**  
